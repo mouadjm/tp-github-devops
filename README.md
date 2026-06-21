@@ -12,3 +12,4 @@ Projet de test Git + GitHub
 # Autre modification locale
 >>>>>>> e1ba6fb (docs: local README update)
 # Autre modification locale
+# Rapport de synthèse du projet
