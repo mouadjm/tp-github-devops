@@ -1,2 +1,2 @@
-# tp-github-devops
-TP GitHub - Cours DevOps
+# TP GitHub DevOps
+Projet de test Git + GitHub
