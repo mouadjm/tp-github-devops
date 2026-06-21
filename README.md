@@ -1,3 +1,9 @@
 # TP GitHub DevOps
+<<<<<<< HEAD
 Projet de test Git + GitHub
+<<<<<<< HEAD
 # Note ajoutée par collègue
+=======
+=======
+>>>>>>> cdb698c (init: initialisation du projet tp-github-devops)
+>>>>>>> c3770fc (init: initialisation du projet tp-github-devops)
